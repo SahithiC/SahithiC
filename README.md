@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sahithi Chimalakonda - @SahithiC
+- 👀 I’m interested in Data Science roles
+- 🌱 I’m currently learning the fundamentals of data analytics and data science and will upgrade to learning all the key facets of this field
+- 💞️ I’m looking to collaborate on freelance projects
